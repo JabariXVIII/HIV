@@ -1,0 +1,40 @@
+nav{
+    float: inherit;
+    font-size: 20px;
+    color:blue;
+    text-align: center;
+    width: 85%;
+    padding: 20px;
+    border-style: solid;
+    border-color: white;
+    border-width: 10px;
+    margin: 3em;
+    background color: blue;
+}
+
+body{
+color: white;
+text-align: center;
+background-color: cornflowerblue;
+}
+
+#PITCH{
+    float: right;
+    font-size: 20px;
+    color: white;
+    width: 50%;
+    padding: 10px;
+    border-style: solid;
+    border-color: white;
+    border-width: 10px;
+    margin: 3em;
+    background color: blue;
+    
+}
+img{
+    max-width: 40%;
+    height: auto;
+}
+img{
+    float: left;
+}
